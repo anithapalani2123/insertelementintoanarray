@@ -13,7 +13,8 @@
 
 // NAME: ANITHA P
 // ROLLNO: 212221240004
-
+## program
+```
 import java.util.Scanner;
 public class Array {
     public static void main(String[] args) {
@@ -30,6 +31,20 @@ public class Array {
     }
 }
 
-
-## RESULT:
+```
+## Output:
 ![image](https://github.com/gpavithra673/EXP7_Write-a-java-program-to-insert-an-element-into-array/assets/93427264/7baf2d72-5898-4688-a940-e75b0f27a959)
+
+
+## Result:
+Thus,element is inserted into an array successfully.
+
+
+
+
+
+
+
+
+
+
